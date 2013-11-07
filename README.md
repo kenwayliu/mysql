@@ -1,0 +1,4 @@
+mysql
+=====
+
+mysqlinstall script
